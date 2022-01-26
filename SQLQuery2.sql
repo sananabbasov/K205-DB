@@ -75,3 +75,8 @@ where Products.Price > 400 AND Products.Price <500
 
 DELETE FROM Products WHERE ProductId=1
 
+-- JOINS, VIEW, PROCEDURS
+
+
+
+
